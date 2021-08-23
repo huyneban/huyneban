@@ -1,0 +1,66 @@
+
+#d1{
+   font-weight: bolder;
+   font-size: 80px;
+   display: block;
+   width: 1000px;
+   color: #85ff15;
+   text-shadow: 1px 1px 2px #fff100;
+   text-align: center;
+   text-transform: capitalize;
+   border: solid 5px ;
+   background: #ff5589;
+				
+}
+span div{
+				font-weight: bold;
+				font-size:35px ;
+				width: 500px;
+		  color: #ff001f;
+		  text-indent:0px;
+		  background: #95ffcc;
+		  
+		  		  				
+}
+div{
+				width: 1000px;
+				font-weight: bold;
+				font-size: 35px;
+				color: #00d5ff;
+				text-indent: 20px;
+				display: inline-block;
+				text-shadow: 1px 1px 2px #2600ff;
+				
+}
+#d2,#d3,#d7,#d11,#d15{
+    font-style: italic;
+    width: 1000px;
+    font-size: 40px;
+    display:inline;
+    
+   
+    
+}
+
+
+#d4,#d8,#d12{
+    font-weight: bolder;
+    color: #b900ff;
+    font-size: 30px;
+    width: 800px;
+				
+}
+#d5,#d6,#d4{
+     width: 800px;
+     color: #ff5f55;
+     font-size: 30px;     
+          
+			
+}
+
+#d00{
+				font-weight: bolder;
+				color: #8f00ff;
+				text-decoration: underline;
+}
+
